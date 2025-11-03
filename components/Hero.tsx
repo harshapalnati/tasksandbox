@@ -56,14 +56,14 @@ export default function Hero() {
           <div className="font-mono text-3xl font-semibold leading-tight text-slate-100 md:text-4xl">
             <p className="mb-2">Every Agent</p>
             <p>
-              Needs an{" "}
+              Needs a{" "}
               <span className="text-orange-400">Tasksandbox.</span>
             </p>
           </div>
 
           <p className="max-w-2xl text-sm leading-relaxed text-gray-300 md:text-base">
             A clean, isolated environment where your agents can code, browse, and
-            automate -- without leaving their sandbox.
+            automate - without leaving their sandbox.
           </p>
 
           <div className="flex flex-wrap gap-4">
